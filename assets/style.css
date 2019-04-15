@@ -1,0 +1,73 @@
+
+
+
+#done{
+    position: absolute;
+    margin-bottom: -180px;
+    margin-left: -125px;
+    padding: 15px;
+    background-color: blue;
+    width: 90px;
+    color: white;
+}
+
+
+
+p{
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+
+#totals{
+    margin: 10px auto;
+    margin-top: -500px;
+    text-align: center;
+}
+
+#questionblock{
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+#timeLeft{
+    margin-top: 30px;
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+
+
+body{
+    background-image: url("../assets/images/porsche.jpg");
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    padding: 20px;
+    font-size: 45px;
+}
+
+.wrapper{
+    margin: 10px auto;
+    background-color: rgba(255,255,255, 0.7);
+    border: 2px solid #403fd3;
+    height: 900px;
+    width: 60%;
+    text-align: center;
+}
+
+.btn{
+    position: relative;
+    bottom: -150px;
+}
+
